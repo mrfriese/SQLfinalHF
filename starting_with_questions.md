@@ -6,11 +6,17 @@ Answer the following questions and provide the SQL queries used to find the answ
 
 SQL Queries:
 
+SELECT city, country, totaltransactionrevenue
+	FROM all_sessions
+	GROUP BY country, city, totaltransactionrevenue
+	ORDER BY city DESC
+	LIMIT 5
+	
 
 
 Answer:
 
-
+USA
 
 
 **Question 2: What is the average number of products ordered from visitors in each city and country?**
