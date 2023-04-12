@@ -3,10 +3,10 @@
 ## Project/Goals
 Understand and complete first SQL project.
 ## Process
-### Create tables and upload CSV files.
-### Analyze data to understand the information
-### Clean data for use
-### Use queries to obtain valuable insights
+Create tables and upload CSV files.
+Analyze data to understand the information
+Clean data for use
+Use queries to obtain valuable insights
 
 ## Results
 From the data I found there is a lot of information on where the company performs its business, but much more information is missing and is impacting business success.
